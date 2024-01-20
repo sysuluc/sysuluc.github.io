@@ -4,7 +4,7 @@
 
 header_pages:
   - index.md
-#  - blog.html
+  - tags.html
   - about.md
   - contact.md
 
