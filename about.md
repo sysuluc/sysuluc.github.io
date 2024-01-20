@@ -10,7 +10,9 @@ permalink: /about
 2023/07 work in the electricity/energy sector
 2000/07 born in [Chenzhou](https://en.wikipedia.org/wiki/Chenzhou)
 ## education
-2017/09-2023/06 B.Eng. in Nuclear Science and Technology & M.Eng in Power and Energy @[IFCEN, SYSU](https://ifcen.sysu.edu.cn/)
+2017/09-2023/06 @[IFCEN, SYSU](https://ifcen.sysu.edu.cn/)
+B.Eng. in Nuclear Science and Technology
+M.Eng. in Power and Energy
 ## language
 chinese :)
 french & english :|
