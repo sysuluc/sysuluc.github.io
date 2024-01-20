@@ -1,13 +1,13 @@
 ---
-title: about me
+title: About
 layout: page
 permalink: /about
 ---
 
 ## Luc CAO
 # profile
-2000/07/27 engineer in nuclear industry
+2000/07/27
 # education
-2017-2023 SYSU Bac & Master
+2017-2023 SYSU
 # interests
-TBA
+Postcrossing
