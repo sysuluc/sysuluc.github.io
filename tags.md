@@ -1,9 +1,4 @@
 ---
-title: Tags
 layout: tags
-permalink: /tags
----
-
-bruh
-
-test
+tag-name: bruh
+--
