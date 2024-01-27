@@ -1,6 +1,6 @@
 ---
 title: Tags
 permalink: /contact
-layout: tags
-tag-name: bruh
+layout: tag_layout
+tag: bruh
 --
