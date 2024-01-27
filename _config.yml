@@ -4,6 +4,7 @@
 
 header_pages:
   - index.md
+  - tags.md
   - about.md
   - contact.md
 
