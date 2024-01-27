@@ -1,8 +1,8 @@
 ---
 title: Tags
-permalink: /tags
 layout: page
---
+permalink: /tags
+---
 
 {% for tag in site.tags %}
   <h1>{{ tag[0] }}</h1>
