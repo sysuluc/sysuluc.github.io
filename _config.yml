@@ -8,7 +8,7 @@ header_pages:
   - about.md
   - contact.md
 
-footer: &copy; 2024 Luc's cyber garden. All rights reserved.
+footer: <p>&copy; 2024 Luc's cyber garden. All rights reserved.</p>
 
 style: hacker
 
