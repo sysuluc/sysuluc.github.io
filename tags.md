@@ -1,6 +1,6 @@
 ---
 title: Tags
-permalink: /contact
+permalink: /tags
 layout: tag_layout
 tag: bruh
 --
