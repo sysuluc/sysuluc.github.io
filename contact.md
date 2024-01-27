@@ -6,9 +6,10 @@ permalink: /contact
   
 Contact me by
 
-Email: luc.caoqinchuang@qq.com
+🌐Email: 
+luc.caoqinchuang@qq.com
 
-Postcard(Recommended): 
+✉️Postcard(Recommended): 
 Q-C CAO
 ShiYan bldg., DaYa Bay Nuclear Base,
 DaPeng dist., ShenZhen 518120 
