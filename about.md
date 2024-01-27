@@ -6,17 +6,17 @@ permalink: /about
 
 # Luc CAO
 ## profile
-2000/07 born in [Chenzhou](https://en.wikipedia.org/wiki/Chenzhou)
+🚼2000/07 born in [Chenzhou](https://en.wikipedia.org/wiki/Chenzhou), China
 ## education
-2017/09-2023/06 @[IFCEN, SYSU](https://ifcen.sysu.edu.cn/)
-B.Eng. in Nuclear Science and Technology
-M.Eng. in Power and Energy
+🧑‍🎓2017/09-2023/06 @[IFCEN, SYSU](https://ifcen.sysu.edu.cn/)
+☢️B.Eng. in Nuclear Science and Technology
+⚡M.Eng. in Power and Energy
 ## language
-chinese :)
-french & english :|
-russian :(
+🙂chinese :)
+😐french & english :|
+☹️russian :(
 ## interests
-Cyber mining (find and collect anything interesting and bizarre from internet)
-Postcrossing (exchange of postcards all around the world, see [here](https://www.postcrossing.com/))
+⛏️Cyber mining (find and collect anything interesting and bizarre from internet)
+📬Postcrossing (send and receive postcards with random people around the world, see [here](https://www.postcrossing.com/))
 
 *to be completed...*
