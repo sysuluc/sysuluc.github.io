@@ -4,8 +4,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 <p>
-  {{ page.date | date_to_string }} - {{ page.author }}<br>
-  Stars: {{ page.stars }}<br>
+  {{ page.date | date_to_string }} / {{ page.author }} / {{ page.stars }}<br>
   Tags: {{ page.tags | join: ", " }}
 </p>
 
