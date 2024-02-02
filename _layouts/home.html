@@ -12,7 +12,6 @@ layout: default
     <li>
       {%- assign date_format = "%Y-%m-%d" -%}      
       [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      <p>{{ post.excerpt }}</p>
     </li>
     {%- endfor -%}
   </ul>
