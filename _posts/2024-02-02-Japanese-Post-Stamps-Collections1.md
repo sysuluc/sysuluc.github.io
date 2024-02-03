@@ -7,8 +7,7 @@ stars: ⭐
 ---
 
 # Japanese Post Stamps Collections #1
-<img src="[https://github.com/sysuluc/sysuluc.github.io/blob/65fc88ebbdd0a32a94e3f0e2b3969dcba8e5db27/assets/pics/%E5%9B%BE%E7%89%872.png]" width="550" title="collection #1">
-![[/assets/pics/图片2.png]]
+<img src="[/assets/pics/图片2.png]" width="550" title="collection #1">
 ## 1 1990 Imperial Enthronement (Heisei 2nd)
 平成2年（明仁）天皇即位纪念，图案为[高御座](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%A1%E5%BA%A7)正下方的凤凰像。
 ## 2 1970 NIPPON EXPO
