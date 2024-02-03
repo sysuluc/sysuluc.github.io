@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Japanese Post Stamps Collections #1
+author: luc
 date: 2024-02-02 22:15:00 +0800
 tags: post
 stars: ⭐
 ---
 
-# Japanese Post Stamps Collections #1
-<img src="/assets/pics/图片2.png" width="550" title="collection #1">
+<img src="/assets/pics/图片2.png" width="600">
+
 ## 1 1990 Imperial Enthronement (Heisei 2nd)
 平成2年（明仁）天皇即位纪念，图案为[高御座](https://ja.wikipedia.org/wiki/%E9%AB%98%E5%BE%A1%E5%BA%A7)正下方的凤凰像。
 ## 2 1970 NIPPON EXPO
