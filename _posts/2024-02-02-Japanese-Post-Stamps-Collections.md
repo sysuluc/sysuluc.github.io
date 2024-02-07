@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japanese Post Stamps Collections #1
+title: Japanese Post Stamps Collections
 author: luc
 date: 2024-02-02 22:15:00 +0800
 tags: post
@@ -25,3 +25,5 @@ stars: ⭐
 
 ## 7 1994 The 50-yen stamp
 [阿波舞](https://ja.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E8%B8%8A%E3%82%8A)，德岛县的代表文化。
+
+updated 2024/02/02
