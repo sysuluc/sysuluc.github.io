@@ -10,13 +10,13 @@ stars: ⭐
 <img src="/assets/pics/DE1.png" width="600">
 
 ## 1 2022 German Postcrossing stamp
-自2015年，在用户Linus58的带领下，pc爱好者们持续给德国财政部寄明信片情愿发行pc邮票，直到2022年，这一情愿终于成真，但Linus58于2021年离世。见[此处](https://www.postcrossing.com/blog/2022/08/25/a-postcrossing-themed-stamp-is-on-its-way-from-germany)。
+自2015年，在用户Linus58的带领下，pc爱好者们持续给德国财政部寄明信片请愿发行pc邮票，直到2022年，这一请愿终于成真，但不幸Linus58已于2021年离世。见[此处](https://www.postcrossing.com/blog/2022/08/25/a-postcrossing-themed-stamp-is-on-its-way-from-germany)。
 
 ## 2 2023 100 years of planetarium in Germany
 德国第一座[天文馆百年纪念邮票](https://planetarium100.org/centennial-projects/commemorative-stamp/german-commemorative-stamp/)，在德国耶拿的蔡司天文馆首发。
 
 ## 3 2022 Spider-Man stamp
-蜘蛛侠60周年纪念，也是[DHL](https://group.dhl.com/de/presse/pressemitteilungen/2022/deutsche-post-ehrt-spider-man-mit-neuer-briefmarke.html)从2022年开始以每年两张的进度发行“超级英雄”系列邮票的第一张。
+蜘蛛侠60周年纪念，也是[DHL](https://group.dhl.com/de/presse/pressemitteilungen/2022/deutsche-post-ehrt-spider-man-mit-neuer-briefmarke.html)计划从2022年开始每年发行两张“超级英雄”系列邮票的第一张。
 
 ## 4 The 10c stamps
 [冬菟葵](https://zh.wikipedia.org/wiki/%E5%86%AC%E8%8F%9F%E8%91%B5)
