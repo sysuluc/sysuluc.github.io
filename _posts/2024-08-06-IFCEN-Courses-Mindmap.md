@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What did I learned from 2017 to 2023
+title: What did I learn from 2017 to 2023
 author: luc
 date: 2024-08-06 21:53:00 +0800
 tags: study
